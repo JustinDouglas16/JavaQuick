@@ -2,6 +2,10 @@ package com.bootcamp.app;
 
 import java.util.Scanner;
 
+/*
+ * dit is een quiz game waar de vragen gebaseerd zijn op java topics
+ */
+
 public class App {
 
 	public static void main(String[] args) {
